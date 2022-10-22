@@ -1,9 +1,9 @@
 # Mayra-Santana
 
-Estudante de Computação
+Computer Science student
 
-Á procura de um estágio/emprego
+Looking for an internship
 
-Experiência com C e Python
+Experience with Java, MySQL and Python 
 
-Estudando backend
+Currently focused on backend web development
